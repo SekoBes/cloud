@@ -1080,20 +1080,21 @@ def main_process():
     worker_playlist_url = config.get('cloudflare', {}).get('worker_url', '').rstrip('/') + '/playlist.m3u'
     print(f"📺 M3U Linki: {worker_playlist_url}"); print("=" * 50)
 
+
 if __name__ == "__main__":
     if "--once" in sys.argv:
         main_process()
     else:
         while True:
-        try:
-            main_process()
-            toplam_saniye = 3600
-            for i in range(toplam_saniye, 0, -1):
-                saat = i // 3600; dk = (i % 3600) // 60; sn = i % 60
-                print(f"\r⏱ Cloud güncelleme için kalan: {saat:02d}:{dk:02d}:{sn:02d} ", end="", flush=True)
-                time.sleep(1)
-            print()
-        except KeyboardInterrupt:
-            print("\n\n👋 Durduruldu!"); sys.exit(0)
-        except Exception as e:
-            print(f"\n❌ KRİTİK HATA: {e}"); print("🔄 60 saniye sonra tekrar deneniyor..."); time.sleep(60)
+            try:
+                main_process()
+                toplam_saniye = 3600
+                for i in range(toplam_saniye, 0, -1):
+                    saat = i // 3600; dk = (i % 3600) // 60; sn = i % 60
+                    print(f"\r⏱ Cloud güncelleme için kalan: {saat:02d}:{dk:02d}:{sn:02d} ", end="", flush=True)
+                    time.sleep(1)
+                print()
+            except KeyboardInterrupt:
+                print("\n\n👋 Durduruldu!"); sys.exit(0)
+            except Exception as e:
+                print(f"\n❌ KRİTİK HATA: {e}"); print("🔄 60 saniye sonra tekrar deneniyor..."); time.sleep(60)
