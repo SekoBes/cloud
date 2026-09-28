@@ -19,7 +19,6 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ==================== AYARLAR ====================
 if os.environ.get("GITHUB_ACTIONS") == "true":
-    # GitHub Actions ortamı: repo kökü
     BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 elif os.path.exists("/storage/emulated/0/") and platform.system() != 'Windows':
     BASE_PATH = "/storage/emulated/0/IPTV"
@@ -27,7 +26,7 @@ else:
     BASE_PATH = r"C:\Users\KEMAL\Desktop\IPTV"
 
 TV_ORDER_FILE = os.path.join(BASE_PATH, "Dizin.txt")
-CLOUD_FILE = os.path.join(BASE_PATH, "Cloud.txt")  # Artık IPTV+CLOUD+RADIO hepsi bu dosyada, #TYPE: etiketleriyle ayrılıyor
+CLOUD_FILE = os.path.join(BASE_PATH, "Cloud.txt")
 OUTPUT_FILE = os.path.join(BASE_PATH, "TV.m3u")
 YEDEK_FILE = os.path.join(BASE_PATH, "Yedek.m3u")
 CACHE_FILE = os.path.join(BASE_PATH, "cache.json")
@@ -40,7 +39,6 @@ print(f"📁 Platform: {platform.system()}")
 print(f"📁 BASE_PATH: {BASE_PATH}")
 
 # ==================== ENV ====================
-# .env dosyasını (varsa) okuyup ortam değişkenlerine ekler. Gerçek env değişkenleri önceliklidir.
 def load_dotenv(path):
     if not os.path.exists(path):
         return
@@ -137,6 +135,13 @@ def telegram_mesaj_gonder(mesaj):
 # ==================== DOSYA OKUMA ====================
 VALID_TYPES = {'IPTV': 'iptv', 'CLOUD': 'cloud', 'RADIO': 'radio'}
 
+def is_direct_url(url):
+    MEDIA_EXT = ('.m3u8', '.m3u', '.mpd', '.ts', '.mp3', '.aac', '.mp4', '.flv', '.ogg')
+    l = url.lower()
+    if l.split('?', 1)[0].split('#', 1)[0].endswith(MEDIA_EXT) or 'm3u8' in l:
+        return True
+    return re.match(r'^https?://\d{1,3}(\.\d{1,3}){3}(:\d+)?(/|$)', l) is not None
+
 def read_all_channels_file(file_path, default_type='cloud', show_result=True):
     groups = {'iptv': {}, 'cloud': {}, 'radio': {}}
     order = []
@@ -193,7 +198,6 @@ def read_all_channels_file(file_path, default_type='cloud', show_result=True):
         i+=1
     if show_result:
         label_map = {'iptv': 'TV Kanalları', 'cloud': 'Cloud Kanalları', 'radio': 'Radyo Kanalları'}
-        # Etiket yerine link türüne göre say: hazır yayın linki (.m3u8 vb.) TV, web sayfası Cloud
         _hazir = is_direct_url
         cloud_entries = [e for v in groups['cloud'].values() for e in v]
         sayilar = {
@@ -204,32 +208,95 @@ def read_all_channels_file(file_path, default_type='cloud', show_result=True):
         for t in ('iptv','cloud','radio'):
             print(f"   📖 {label_map.get(t, t.upper())} : {sayilar[t]} Kanal")
     return groups['iptv'], groups['cloud'], groups['radio'], order
-    if not os.path.exists(file_path):
-        print(f"⚠ Dizin.txt bulunamadı")
-        return []
-    with open(file_path, 'r', encoding='utf-8') as f:
-        order = [s for line in f if (s := line.strip()) and not s.startswith('#')]
-    print(f"   📋 Dizin.txt: {len(order)} Kanal Sırası")
-    return order
 
-# ==================== YOUTUBE ====================
+
+# ==================== YOUTUBE - GITHUB -> INVIDIOUS -> GOOGLEVIDEO (BAN YOK) ====================
 def get_youtube_stream(url, max_retries=2):
-    user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    for attempt in range(max_retries):
-        try:
-            if attempt > 0:
-                time.sleep(1.5)
-            cmd = ['yt-dlp','--quiet','--user-agent',user_agent,'--format','best[ext=mp4]/best','--no-playlist','--force-ipv4','--extractor-args','youtube:player_client=android,ios;skip=dash','--print','%(url)s|||%(height)s',url]
-            result = subprocess.run(cmd, capture_output=True, text=True, timeout=45)
-            if result.returncode == 0 and result.stdout.strip():
-                output = result.stdout.strip()
-                if "|||" in output:
-                    stream_url, height = output.split("|||", 1)
-                    return stream_url.strip(), f"{height.strip()}p"
-        except:
-            continue
+    vid_match = re.search(r"(?:v=|youtu\.be/|/live/|/shorts/)([A-Za-z0-9_-]{11})", url)
+    vid = vid_match.group(1) if vid_match else None
+    is_github = os.environ.get("GITHUB_ACTIONS") == "true"
+
+    # 1. INVIDIOUS - BAN YOK
+    if vid:
+        inv_list = [
+            "https://inv.nadeko.net",
+            "https://invidious.nerdvpn.de",
+            "https://invidious.lunar.icu",
+            "https://yt.artemislena.eu",
+            "https://invidious.protokolla.fi",
+            "https://inv.zzls.xyz",
+        ]
+        for inv in inv_list:
+            try:
+                r = SESSION.get(f"{inv}/api/v1/videos/{vid}", timeout=12)
+                if r.status_code == 200:
+                    data = r.json()
+                    for f in data.get("formatStreams", []):
+                        u = f.get("url","")
+                        if "googlevideo" in u or u.startswith("https"):
+                            q = f.get("qualityLabel") or f.get("quality") or "HD"
+                            print(f"   [YT-INV] {inv} -> {q}")
+                            return u, q
+                    for f in data.get("adaptiveFormats", []):
+                        u = f.get("url","")
+                        if "googlevideo" in u and f.get("type","").startswith("video"):
+                            q = f.get("qualityLabel") or "HD"
+                            return u, q
+            except Exception as e:
+                if is_github:
+                    print(f"   [INV-FAIL] {inv}: {e}")
+                continue
+
+        # 2. PIPED API
+        piped_list = [
+            "https://pipedapi.kavin.rocks",
+            "https://api.piped.private.coffee",
+            "https://pipedapi.adminforge.de",
+        ]
+        for piped in piped_list:
+            try:
+                r = SESSION.get(f"{piped}/streams/{vid}", timeout=12)
+                if r.status_code == 200:
+                    data = r.json()
+                    for f in data.get("videoStreams", []):
+                        u = f.get("url","")
+                        if u.startswith("https"):
+                            q = f.get("quality") or "HD"
+                            print(f"   [YT-PIPED] {piped}")
+                            return u, q
+                    hls = data.get("hls")
+                    if hls:
+                        return hls, "HD"
+            except:
+                continue
+
+    # 3. yt-dlp son çare
+    clients = ["tv_embedded", "android_vr", "web_safari"]
+    for client in clients:
+        for attempt in range(max_retries):
+            try:
+                if attempt>0:
+                    time.sleep(1.2)
+                cmd = [
+                    'yt-dlp','--quiet','--no-warnings','--no-playlist','--force-ipv4',
+                    '--format','best[ext=mp4]/best',
+                    '--extractor-args', f'youtube:player_client={client};skip=dash',
+                    '--print','%(url)s|||%(height)s',
+                    url
+                ]
+                proxy = os.environ.get("YT_PROXY") or os.environ.get("PROXY") or ""
+                if proxy:
+                    cmd.extend(['--proxy', proxy])
+                result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+                if result.returncode==0 and "|||" in result.stdout:
+                    stream_url, height = result.stdout.strip().split("|||",1)
+                    if stream_url.startswith("http"):
+                        return stream_url.strip(), f"{height.strip()}p"
+            except:
+                continue
     return None, None
-    
+
+
 # ==================== TMG GRUBU ====================
 TMG_MAP = {
     "a2tv": ("https://trkvz.daioncdn.net/a2tv/a2tv.m3u8?ce=3&app=59363a60-be96-4f73-9eff-355d0ff2c758", "https://www.atv.com.tr/a2tv/canli-yayin/"),
@@ -1101,3 +1168,4 @@ if __name__ == "__main__":
                 print("\n\n👋 Durduruldu!"); sys.exit(0)
             except Exception as e:
                 print(f"\n❌ KRİTİK HATA: {e}"); print("🔄 60 saniye sonra tekrar deneniyor..."); time.sleep(60)
+
