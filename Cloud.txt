@@ -1,0 +1,1416 @@
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT1 HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRT1.png",TRT 1
+http://tv-trt1-esdai.medya.trt.com.tr/master_1440p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="ATV HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ATV.png",ATV
+https://www.atv.com.tr/canli-yayin
+
+ #EXTINF:-1 group-title="TV KANALLARI" tvg-name="STAR TV HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/STAR.png",STAR
+https://dygvideo.dygdigital.com/live/hls/startv4puhu/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/SHOW.png",SHOW TV
+https://www.showtv.com.tr/canli-yayin
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="KANAL D HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/KANALD.png",KANAL D
+https://www.kanald.com.tr/canli-yayin
+ 
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="BEYAZ TV HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/BEYAZ.png",BEYAZ TV
+http://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="KANAL 7 HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/KANAL7.png",KANAL 7
+http://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TV8 HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TV8.png",TV 8
+https://www.tv8.com.tr/canli-yayin
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="NOW.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/NOW.png",NOW
+https://www.nowtv.com.tr/canli-yayin
+
+#EXTINF:-1 tvg-name="A HABER HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/AHABER.png",A HABER
+http://m.youtube.com/Ahaber/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="CNN TÜRK HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/CNNTURK.png",CNN TÜRK
+http://m.youtube.com/watch?v=6N8_r2uwLEc/live
+
+#EXTINF:-1 tvg-name="NTV HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/NTV.png",NTV
+http://m.youtube.com/@NTV/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="HABERTÜRK HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/HABERTURK.png",HABER TÜRK
+http://m.youtube.com/haberturktv/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="HABER GLOBAL HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/HABERGLOBAL.png",HABER GLOBAL
+http://m.youtube.com/haberglobal/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="24 HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/24TV.png",24
+http://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="ÜLKE TV HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ULKE.png",ÜLKE TV
+http://m.youtube.com/ulketv/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="AKİT TV HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/AKIT.png",AKİT TV
+http://m.youtube.com/akittv/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TVNET HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TVNET.png",TVNET
+http://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT HABER HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRTHABER.png",TRT HABER
+http://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TGRT HABER HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TGRTHABER.png",TGRT HABER
+http://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TV100.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TV100.png",TV100
+http://tv.ensonhaber.com/tv100/tv100_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="EKOTÜRK HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/EKOTURK.png",EKOTÜRK
+http://cdn.ekoturk.net/hls/720p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="A PARA HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/APARA.png",A PARA
+http://m.youtube.com/@apara/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="BLOOMBERG HT HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/BLOOMBERGHT.png",BLOOMBERG HT
+http://m.youtube.com/bloomberght/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="CNBC-E.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/CNBC-E.png",CNBC-E
+http://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TYT TÜRK.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TYTTURK.png",TYT TÜRK
+http://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="Bİ KANAL.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/BIKANAL.png",Bİ KANAL
+http://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="360 HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/360.png",360
+http://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TV 4.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TV4.png",TV 4
+http://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="A2 HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/A2.png",A2
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="ShowMax.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/SHOWMAX.png",SHOW MAX
+https://www.showmax.com.tr/canliyayin
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TEVE2 HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TV2.png",TV2
+http://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-id="TV8.5 HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TV85.png",TV 8.5
+http://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="tabii TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TABIITV.png",TABİİ TV
+http://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/7NUMARA.png",7 NUMARA
+http://m.youtube.com/@YedinumaradizisiTRT/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT 2 HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRT2.png",TRT 2
+http://tv-trt2.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRTGenc.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRT_GENC.png",TRT GENÇ
+http://tv-trtgenc.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT BELGESEL.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRTBELGESEL.png",TRT BELGESEL
+http://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/NATGEO.png",NATIONAL GEOGRAPHIC
+http://v2.iptvspor.de:8080/live/3yVozxPg/bMf6Qxwe/2c50d6dc-9669-4ff5-a04d-9fad60147cde.ts
+
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/NATGEOWILD.png",NATIONAL GEOGRAPHIC WILD
+http://v2.iptvspor.de:8080/live/3yVozxPg/bMf6Qxwe/e50821ba-9c39-40b1-b6b4-7657ff96b8a0.ts
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/BBCEARTH.png",BBC EARTH
+http://v2.iptvspor.de:8080/live/3yVozxPg/bMf6Qxwe/bba3f221-e4da-4a6d-b835-fab9c3197b4d.ts
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="DISCOVERY CHANNEL HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DC.png",DISCOVERY CHANNEL
+http://v2.iptvspor.de:8080/live/3yVozxPg/bMf6Qxwe/db3008c7-02fb-41af-8b99-34e10d569f12.ts
+
+#EXTINF:-1 group-title="TV KANALLARI",TARİH TV
+http://v2.iptvspor.de:8080/live/3yVozxPg/bMf6Qxwe/70cae976-5e95-4a7c-8469-fef3856fb007.ts
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="GZT TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/GZT.png",GZT TV
+http://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="DMAX HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DMAX.png",DMAX
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TLC.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TLC.png",TLC
+http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="DİYANET TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DIYANET.png",DİYANET TV
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="VAV TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/VAV.png",VAV TV
+http://m.youtube.com/@vavtv/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="SEMERKAND HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/SEMERKAND.png",SEMERKAND
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="Lalegül.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/LALEGUL.png",LALEGÜL TV
+http://lbl.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DOST.png",DOST TV
+http://dost.stream.emsal.im/tv/live.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="Saudi Quran TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ALQURAN.png",AL QURAN AL KAREEM
+http://m.youtube.com/@Muhammad_Ali/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="Saudi Sunnah TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ALSUNNAH.png",AL SUNNAH AL NABAWIYAH
+http://m.youtube.com/watch?v=naaOMgZbIHQ/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DIYANETCOCUK.png",DİYANET ÇOCUK
+https://www.youtube.com/diyanetcocuk/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT DIYANET COCUK.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRTDIYANETCOCUK.png",TRT DİYANET ÇOCUK
+http://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT ÇOCUK HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRTCOCUK.png",TRT ÇOCUK
+http://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="MİNİKA ÇOCUK.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/MINIKACOCUK.png",MİNİKA ÇOCUK
+http://www.minikacocuk.com.tr/webtv/canli-yayin
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="MİNİKA GO.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/MINIKAGO.png",MİNİKA GO
+http://www.minikago.com.tr/webtv/canli-yayin
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="CARTOON NETWORK.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/CARTOONNETWORK.png",CARTOON NETWORK
+https://www.canlitv.diy/cartoon-network
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/STOON.png",STOON TV
+http://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="DISNEY JUNIOR.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DISNEYJR.png",DISNEY JUNIOR
+http://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI",MOONBUG
+http://195.142.194.26:5656/play/a08c
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="BABYTV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/BABYTV.png",BABY TV
+http://saran-live.ercdn.net/babytv/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="DUCKTV HD" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DUCK.png",DUCK TV
+http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DUCKPLUS.png",DUCK PLUS TV
+https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT MÜZİK.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRTMUZIK.png",TRT MÜZİK
+http://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/KRALPOP.png",KRALPOP TV
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/KRALPOP.png",KRAL AKUSTİK TV
+http://m.youtube.com/kralmüzik/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="DREAM TÜRK.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DREAMTURK.png",DREAM TÜRK
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="POWER TURK HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/POWERTURK.png",POWER TÜRK
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="POWER TV HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/POWER.png",POWER
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/POWERTURKTAPTAZE.png",POWER TÜRK TAPTAZE
+http://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/POWERTURKSLOW.png",POWER TÜRK SLOW
+http://listen.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/POWERLOVE.png",POWER LOVE
+http://listen.powerapp.com.tr/plove/love.smil/chunks.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/POWERDANCE.png",POWER DANCE
+http://listen.powerapp.com.tr/dance/dance.smil/chunks.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="NUMBER1 TURK HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/NR1TURK.png",NR1 TÜRK
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="NUMBER1 TV HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/NR1.png",NR1
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="NR1 AŞK HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/NR1ASK.png",NR1 AŞK
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunks.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="NR1 RAP HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/NR1RAP.png",NR1 RAP
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunks.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="NR1 DANCE" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/NR1DANCE.png",NR1 DANCE
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/4TP.png",4 TURKPOP
+http://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/chunklist_w2010397909.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI",TELEVOLE
+https://host.onlineradyotv.net:8081/televolemagazin/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI",FLUX
+https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI",MAX YERLİ
+http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI",MAX PREMIER
+http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/CINE5.png",CINE5 TV
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TELEON.png",TELEON
+http://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="Film Screen.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/FILMSCREEN.png",FILM SCREEN
+http://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI",FIX
+http://guard.sekobes.workers.dev/?url=http://yayin.venomlink.com/live/mystream/main_stream.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="FX HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/FX.png",FX
+http://saran-live.ercdn.net/fx/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT SPOR HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRTSPOR.png",TRT SPOR
+http://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT SPOR YILDIZ.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRTSPORYILDIZ.png",TRT SPOR YILDIZ
+http://tv-trtspor2-esdai.medya.trt.com.tr/master_1440p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="tabii spor.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TABIISPOR.png",TABII SPOR
+http://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1440p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="A SPOR HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ASPOR.png",A SPOR
+https://www.aspor.com.tr/webtv/canli-yayin
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="HT SPOR.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/HTSPOR.png",HT SPOR
+http://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="beIN SPORTS HABER.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/BSHABER.png",beIN SPORTS HABER
+http://m.youtube.com/beINSPORTSTürkiye/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TİVİBU SPOR 1" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TIVIBUSPOR.png",TİVİBU SPOR
+https://www.canlitv.diy/tivibu-spor
+ 
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="FB TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/FBTV.png",FB TV
+http://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/SIFIR.png",SIFIR TV
+http://176.65.153.91:6005/play/a00b/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/E1.png",EUROSPORT 1 HD
+http://guard.sekobes.workers.dev/?url=https://cdn.codenet.work/streamgo/stremgo123/4872.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/E2.png",EUROSPORT 2 HD
+http://guard.sekobes.workers.dev/?url=https://cdn.codenet.work/streamgo/stremgo123/4873.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TAY.png",TAY TV
+http://tjktv-live.tjk.org/taytv/taytv_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/YRSTYZ.png",YRSTYZ
+http://tjktv-live.tjk.org/tjktv_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TJK Yurtdışı TV" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/YRSTYZ2.png",YRSTYZ 2
+http://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT TÜRK.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRTTURK.png",TRT TÜRK
+http://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT AVAZ.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRTAVAZ.png",TRT AVAZ
+http://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="ATV Avrupa" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ATVAVRUPA.png",ATV AVRUPA
+http://www.atvavrupa.tv/canli-yayin
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/EUROSTAR.png",EURO STAR
+http://www.eurostartv.com.tr/canli-izle
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/SHOWTURK.png",SHOW TÜRK
+https://www.showturk.com.tr/canli-yayin
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="Euro D.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/EUROD.png",EURO D
+http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="KANAL 7 AVRUPA" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/KANAL7AVRUPA.png",KANAL 7 AVRUPA
+http://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TV8INT.png",TV8 INT
+http://v2.iptvspor.de:8080/live/3yVozxPg/bMf6Qxwe/6b530b2d-cafe-471b-8077-a7965076dd0f.ts
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TGRT EU.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TGRTEU.png",TGRT EU
+http://v2.iptvspor.de:8080/live/3yVozxPg/bMf6Qxwe/6db70281-f49f-40ec-8b14-4106ebaf5e66.ts
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TGRT Belgesel.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TGRTBELGESEL.png",TGRT BELGESEL
+http://m.youtube.com/@tgrtbelgeseltv/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/CINE1.png",CINE1
+http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/KIBRIS.png",KIBRIS TV
+https://play.kibristv.com/stream/hls/stream.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="BİZİM EV TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/BIZIMEV.png",BİZİMEV TV
+http://m.youtube.com/@bizimevtv2000/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="YABAN.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/YABAN.png",YABAN
+https://www.canlitv.diy/yaban-tv
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/KUDUS.png",KUDÜS TV
+http://yayin1.haber100.com/kudustvapp/kudustv/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TELENEWS.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TELENEWS.png",TELENEWS
+https://cdn4.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="BENGÜTÜRK.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/BENGUTURK.png",BENGÜTÜRK
+http://m.youtube.com/tvbenguturk/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="FLASH HABER.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/FLASHHABER.png",FLASH TV
+http://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="Lider Haber Tv.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/LIDERHABER.png",LİDER HABER
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/chunklist_w614351957.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="KRT TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/KRT.png",KRT TV
+http://m.youtube.com/@krtcanli/live
+ 
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="ULUSAL KANAL.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ULUSAL.png",ULUSAL KANAL
+http://internettv.guventechnology.com/hls/ulusaltv/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="MELTEM TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/MELTEM.png",MELTEM TV
+http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TV5.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TV5.png",TV5
+https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="HALK TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/HALK.png",HALK TV
+http://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="SÖZCÜ TV.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/SZC.png",SÖZCÜ TV
+http://m.youtube.com/@Sozcutelevizyonu/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/MC.png",MC EU
+http://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="Mezzo.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/MEZZO.png",MEZZO
+http://live-3.otcnet.ru/Mezzo/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/MEZZOLIVE.png",MEZZO LIVE
+https://televizo.live/mezzo-live-hd.html
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/MTVLIVE.png",MTV LIVE
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/MB_HITS.png",MUSIC BOX HITS
+http://88.212.15.19/live/mb_hits/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/MB_DANCE.png",MUSIC BOX DANCE
+http://88.212.15.19/live/mb_dance/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/MB_CLASSIC.png",MUSIC BOX CLASSIC
+http://guard.sekobes.workers.dev/?url=https://dash4.antik.sk/live/mb_classic/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/OXYGEN.png",OXYGEN MUSIC
+https://oxygenmusic.hu:2443/hls/oxygenmusic_5000.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TOTAL_MUSIC.png",TOTAL MUSIC
+http://guard.sekobes.workers.dev/?url=http://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-id="TRACE_URBAN_INT" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRACEURBAN.png",TRACE URBAN
+http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-id="TraceUrban.fr@HD" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRACEURBAN.png",TRACE URBAN FR
+http://guard.sekobes.workers.dev/?url=http://channels.trace.plus/Traceprod/URBAN_FR_hd/.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-id="TRACE_UK" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRACEUK.png",TRACE UK
+http://d2l4tng0wskzvn.cloudfront.net/Trace_GB4.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/V2BEAT.png",V2BEAT
+http://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/KRONEHIT.png",KRONEHIT
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/XITE.png",XITE HITS
+http://xite-hitsuk-lg.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/MCM_TOP.png",MCM TOP
+https://televizo.live/mcm-top.html
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DELUXEMUSIC.png",DELUXE MUSIC
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DELUXEDANCE.png",DELUXE DANCE
+http://guard.sekobes.workers.dev/?url=http://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/NRG91.png",NRG 91
+http://tv.nrg91.gr:1935/onweb/live/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/KISSHD.png",KISS HD
+http://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://iptvx.one/picons/kiss-tv-ro.png",KISS TV
+http://guard.sekobes.workers.dev/?url=https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/THEV.png",THE VOICE
+https://bss1.neterra.tv/thevoice/stream_0.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/1HDM.png",1HD
+https://televizo.live/1hd.html
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/FONMUSIC.png",FON MUSIC
+http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI",EU MUSIC
+http://stream.mcquack.net/261/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI",4 EVER MUSIC
+http://stream.mcquack.net/257/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI",BRIDGE DELUXE
+http://stream.mcquack.net/92/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI",EUROPA PLUS TV
+http://stream.mcquack.net/184/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI",RELOAD
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/360TB.png",360 TUNE BOX
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DJTV.png",DEEJAY TV
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/M2O.png",M20
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/VIRGINRADIO.png",VIRGIN RADIO TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/RC.png",RADIO CONTACT
+http://live-radiocontact.digiteka.com/1564284079/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/FUN.png",FUN RADIO
+http://edge18.vedge.infomaniak.com/livecast/ik:funradiovisionhd/chunklist_w1178556553_b3001080.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/538.png",538
+http://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_5.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/QM.png",Q MUSIC
+https://live-streaming.dpgmedia.net/qmusic-nl-srt-y1xf5lha3ebd4eaq0tcup2rm6umy7/index_720.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/QM.png",Q MUSIC
+https://live-streaming.dpgmedia.net/qmusic-nl-srt-y1xf5lha3ebd4eaq0tcup2rm6umy7/index_720.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TBMM.png",TBMM TV
+http://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT World HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRTWORLD.png",TRT WORLD
+http://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="TRT ARABI.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TRTARABI.png",TRT ARABI
+http://tv-trtarabi.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="A NEWS HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ANEWS.png",A NEWS
+http://m.youtube.com/@anewsstv/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="AL JAZEERA ENGLISH.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ALJAZEERA.png",AL JAZEERA ENGLISH
+http://live-hls-apps-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="AL JAZEERA ARABIC HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ALJAZEERA.png",AL JAZEERA ARABIC
+http://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="AL JAZEERA ARABIC HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ALJAZEERA.png",AL JAZEERA ARABIC 2
+http://live-hls-web-aja2-gcp.thehlive.com/AJA2/01.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ALJAZEERA.png",AL JAZEERA MUBASERE
+http://live-hls-apps-ajm.getaj.net/AJM/01.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ALJAZEERA.png",AL JAZEERA MUBASERE 2
+http://live-hls-apps-ajm2-fa.getaj.net/AJM2/01.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="CNN International.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/CNN.png",CNN INTERNATIONAL
+http://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/ABC.png",ABC NEWS
+http://m.youtube.com/@ABCNews/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="BBC News.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/BBCNEWS.png",BBC NEWS
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/BBCNEWS.png",BBC NEWS ARABIC
+http://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="EURONEWS.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/EN.png",EURONEWS
+http://aka-live1050.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a947e1f3/t2-origin/out/v1/live_1080.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/SKYNEWS.png",SKY NEWS
+http://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="SKY NEWS ARABIA.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/SKYNEWS.png",SKY NEWS ARABIA
+http://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/indexll.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/GBN.png",GB NEWS
+http://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=4499968.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="FRANCE 24 ARABIC.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/FRANCE24.png",FRANCE 24 ARABIC
+http://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="FRANCE 24 ENGLISH.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/FRANCE24.png",FRANCE 24 ENGLISH
+http://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="DEUTSCHE WELLE ENGLISH.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DW.png",DEUTSCHE WELLE ENGLISH
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/RUSSIA24.png",RUSSIA 24
+http://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/RT.png",RT NEWS
+https://wisewatchoott.wiseplayout.com/RT/HD1080/HD1080.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/RT.png",RT NEWS ARABIC
+http://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/NHK.png",NHK WORLD JAPAN
+https://nhk.lls.pbs.org/index_1080p.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/CGTN.png",CGTN
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="A2 HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/A2.png",A2
+http://www.atv.com.tr/a2tv/canli-yayin
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-name="A HABER HD.tr" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/AHABER.png",A HABER
+https://www.ahaber.com.tr/video/canli-yayin
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/KRALPOP.png",KRAL AKUSTİK RADYO
+http://m.youtube.com/watch?v=6He9sFxFv8Y/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RADYOMADYO_SLOWTIME.png",SLOW TIME
+http://m.youtube.com/watch?v=XFLDi8EK7FQ/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POP.png",POP RADYO
+http://m.youtube.com/watch?v=z097jPyKeeo/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/TURKU.png",RADYO TÜRKÜ
+http://m.youtube.com/@radyodinle/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/7HITTURKU.png",RADYO 7 HİT TÜRKÜLER
+http://m.youtube.com/radyoyedi/live
+
+#EXTINF:-1 group-title="TV KANALLARI",45'LİK TADINDA NOSTALJİ
+http://m.youtube.com/watch?v=_ibR8kTKpE8/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/AS_SLOW.png",AŞKIN SESİ SLOW
+http://m.youtube.com/watch?v=gSmh0HYHfFI/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/AS_ARABESK.png",AŞKIN SESİ ARABESK
+http://m.youtube.com/watch?v=YYXa7Pv_x_4/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DAMAR.png",RADYO DAMAR
+http://m.youtube.com/watch?v=N1VogsSbe6M/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DRAM.png",RADYO DRAM
+http://m.youtube.com/watch?v=Q52hUPTlFcM/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/PLATONIK.png",PLATONİK FM
+http://m.youtube.com/@Platonik_Radyo_Fm/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/PLATONIKK.png",PLATONİK FM
+http://m.youtube.com/@platonik_fmm/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/DERT.png",DERT FM
+http://m.youtube.com/@dinlecanli/live
+
+#EXTINF:-1 group-title="TV KANALLARI",RELAX
+http://m.youtube.com/watch?v=0ph114OBAho/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/SOMINE.png",ŞÖMİNE I
+http://m.youtube.com/@rainsoundcamp/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/SOMINE.png",ŞÖMİNE II
+http://wwww.youtube.com/@Ultra-Relax/live
+
+#EXTINF:-1 group-title="TV KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/TVLogos/SOMINE.png",ŞÖMİNE III
+http://m.youtube.com/@FobosPlanet/live
+
+#EXTINF:-1 group-title="TV KANALLARI",İLAHİ MÜZİK
+https://www.youtube.com/@Beyribeyilahimuzik1/live
+
+#TYPE:RADIO
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ISTANBUL.png",İSTANBUL FM
+https://live.radyofenomen.com/istanbulfm/128/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ISTANBUL_SLOW.png",İSTANBUL FM SLOW
+https://yayin.istanbulfm.com.tr/istanbulfm/slow/chunks.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ISTANBUL_NOSTALJI.png",İSTANBUL FM NOSTALJİ
+https://yayin.istanbulfm.com.tr/istanbulfm/nostalji/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ISTANBUL_FANTEZI.png",İSTANBUL FM FANTEZİ
+https://yayin.istanbulfm.com.tr/istanbulfm/fantezi/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ISTANBUL_ALATURKA.png",İSTANBUL FM ALATURKA
+https://yayin.istanbulfm.com.tr/istanbulfm/alaturka/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BEST.png",BEST FM
+http://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BEST_SLOW.png",BEST SLOW
+http://hepsibest.radyotvonline.net/bestslow
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BEST_HIT.png",BEST HIT
+http://hepsibest.radyotvonline.net/besthit
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BABA.png",BABA RADYO
+https://ssldyg.radyotvonline.com/best/babaradyo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/34.png",RADYO 34
+https://sslyayin.radyoyayini.com:7103/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ALEM.png",ALEM FM
+http://alemfm.radyotvonline.net
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ALEM_SLOW.png",ALEM FM SLOW
+http://alemfm.radyotvonline.net/alemfmslow
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ALEM_PLAKTAN.png",ALEM PLAKTAN
+http://alemfm.radyotvonline.net/alemplaktan
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ALEM_FARABESK.png",ALEM FM FARABESK
+http://alemfm.radyotvonline.net/alemfarabesk
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ALEM_ATMOSFER.png",ALEM FM ATMOSFER
+http://alemfm.radyotvonline.net/alematmosfer
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SHOW.png",SHOW RADYO
+http://buff.sekobes.workers.dev/show_radyo
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SHOW_TREND.png",SHOW TREND
+http://guard.sekobes.workers.dev/?url=http://listen.radyotvonline.net/hls/play/show_trend.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SHOW_SLOW.png",SHOW SLOW
+http://guard.sekobes.workers.dev/?url=http://listen.radyotvonline.net/hls/play/show_slow.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SHOW_90LAR.png",SHOW 90'LAR
+http://guard.sekobes.workers.dev/?url=http://listen.radyotvonline.net/hls/play/show_90lar.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SHOW_ELLERHAVAYA.png",SHOW ELLER HAVAYA
+http://guard.sekobes.workers.dev/?url=http://listen.radyotvonline.net/hls/play/show_ellerhavaya.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/VIVA.png",RADYO VİVA
+https://radyoviva.radyotvonline.net
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/VIVA_TRENDPOP.png",VİVA TREND POP
+http://guard.sekobes.workers.dev/?url=http://listen.radyotvonline.net/hls/play/viva_pop.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/VIVA_CLUB.png",VİVA CLUB
+http://guard.sekobes.workers.dev/?url=http://listen.radyotvonline.net/hls/play/viva_club.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/VIVA_TURCA.png",VİVA TURCA
+http://guard.sekobes.workers.dev/?url=http://listen.radyotvonline.net/hls/play/viva_turca.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/VIVA_TURKU.png",VİVA TÜRKÜ
+http://guard.sekobes.workers.dev/?url=http://listen.radyotvonline.net/hls/play/viva_turku.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/VIVA_EFKARMODU.png",VİVA EFKAR MODU
+http://guard.sekobes.workers.dev/?url=http://listen.radyotvonline.net/hls/play/viva_efkar.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_SUPER.png",SÜPER FM
+http://192.173.31.44/SUPER_FM128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_SUPER2.png",SÜPER 2
+http://192.173.31.109/api/livestream-redirect/SUPER2128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_SUPERYENI.png",SÜPER YENİ
+http://192.173.31.109/api/livestream-redirect/SUPER_YENI128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_METRO.png",METRO FM
+http://192.173.31.109/api/livestream-redirect/METRO_FM128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_JOY.png",JOY FM
+http://192.173.31.58/JOY_FM128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_JOYTURK.png",JOY TÜRK
+http://192.173.31.44/JOY_TURK128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_MYDONOSE.png",RADYO MYDONOSE
+http://192.173.31.109/api/livestream-redirect/RADIO_MYDONOSE128AAC_SC
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_MYDONOSETURK.png",MYDONOSE TÜRK
+http://192.173.31.109/api/livestream-redirect/MYDONOSE_TURK128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_VIRGIN.png",VIRGIN RADIO
+http://192.173.31.109/api/livestream-redirect/VIRGIN_RADIO128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_ENIYILER.png",EN İYİLER
+http://192.173.31.109/api/livestream-redirect/GHOAT_TR128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_POP90.png",POP 90
+http://192.173.31.109/api/livestream-redirect/POP90128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_POPBESK.png",POPBESK
+http://107.155.103.156/POPBESK128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_YOLARKADASIM.png",YOL ARKADAŞIM
+http://192.173.31.109/api/livestream-redirect/YOL_ARKADASIM128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_RETROTURK.png",RETROTÜRK
+http://192.173.31.139/RETROTURK128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARNAVAL_MAKAM.png",MAKAM
+http://184.104.206.39/MAKAM128AAC.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ALATURKA.png",RADYO ALATURKA
+http://yayin.jumboserver.net:9100
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ALATURKA_KLASIK.png",ALATURKA KLASİK
+http://yayin.jumboserver.net:9102/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ALATURKA_FANTEZI.png",ALATURKA FANTEZİ
+http://yayin.jumboserver.net:9106/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ALATURKA_45LIK.png",ALATURKA 45'LİK
+http://yayin.jumboserver.net:9104/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KRALPOP.png",KRAL POP
+https://dygmaster.radyotvonline.net/kralpop/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KRAL.png",KRAL FM
+https://dygmaster2.radyotvonline.net/kralfm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/D.png",RADYO D
+https://82.222.153.12/radyod
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SLOWTURK.png",SLOW TÜRK
+https://82.222.153.12/slowturk
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DREAMTURK.png",DREAM TÜRK
+https://82.222.153.12/dreamturk
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TURKUVAZ.png",RADYO TURKUVAZ
+http://trkvz-radyolar.ercdn.net/radyoturkuvaz/chunklist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TURKUVAZ_ROMANTIK.png",TURKUVAZ ROMANTİK
+http://trkvz-radyolar.ercdn.net/turkuvazromantik/chunklist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TURKUVAZ_NOSTALJI.png",TURKUVAZ NOSTALJİ
+http://trkvz-radyolar.ercdn.net/turkuvaznostalji/chunklist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TURKUVAZ_MUSIKI.png",TURKUVAZ MUSİKİ
+http://trkvz-radyolar.ercdn.net/turkuvazmusiki/chunklist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TURKUVAZ_EFSANE.png",TURKUVAZ EFSANE
+http://trkvz-radyolar.ercdn.net/turkuvazefsane/chunklist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/7.png",RADYO 7
+https://moondigitalmaster.radyotvonline.net/radyo7/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/7_POPHIT.png",RADYO 7 POP HİT
+http://moondigitalmaster2.radyotvonline.net/radyo7pophit/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/7_SLOWHIT.png",RADYO 7 SLOW HİT
+http://moondigitalmaster2.radyotvonline.net/radyo7slow/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/7_NOSTALJI.png",RADYO 7 NOSTALJİ
+http://moondigitalmaster2.radyotvonline.net/radyo7nostalji/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/7_ARABESK.png",RADYO 7 ARABESK
+http://moondigitalmaster2.radyotvonline.net/radyo7arabesk/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/7_TURKU.png",RADYO 7 TÜRKÜ
+http://moondigitalmaster2.radyotvonline.net/radyo7turku/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ULUSAL_POP.png",ULUSAL POP
+http://radyo.ulusalkanal.net.tr:9314/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ULUSAL_TRSLOW.png",ULUSAL TÜRKÇE SLOW
+http://radyo.ulusalkanal.net.tr:9366/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ULUSAL_NOSTALJI.png",ULUSAL NOSTALJİ
+http://radyo.ulusalkanal.net.tr:9316/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ULUSAL_ARABESK.png",ULUSAL ARABESK
+http://radyo.ulusalkanal.net.tr:9334/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ULUSAL_SANAT.png",ULUSAL SANAT
+http://radyo.ulusalkanal.net.tr:9312/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/METROPOL.png",METROPOL FM POP TÜRK
+http://stream.metropolfm.de/MFMTurkishPop/mp3-256
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/METROPOL.png",METROPOL FM KEYF
+http://stream.metropolfm.de/RadyoKeyf/mp3-256
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/METROPOL.png",METROPOL FM OXIJEN
+http://stream.metropolfm.de/MFMOxijen/mp3-256
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/METROPOL.png",METROPOL FM 90'LAR
+http://stream.metropolfm.de/MFM90lar/mp3-256
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/METROPOL.png",METROPOL FM 45'LİK
+http://stream.metropolfm.de/MFM45lik/mp3-256
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/METROPOL.png",METROPOL FM ALATURKA
+http://stream.metropolfm.de/MFMAlaturka/mp3-256
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/METROPOL.png",METROPOL FM ARABESK
+http://stream.metropolfm.de/MFMArabesk/mp3-256
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/PAL.png",PAL FM
+https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/PAL_SLOW.png",PAL SLOW
+https://ssldyg.radyotvonline.com/live/palslow.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/PAL_NOSTALJI.png",PAL NOSTALJİ
+http://shoutcast.radyogrup.com:1010/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/PAL_EFSANELER.png",PAL EFSANELER
+https://ssldyg.radyotvonline.com/live/palefsane.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/PAL_ALATURKA.png",PAL ALATURKA
+https://ssldyg.radyotvonline.com/live/palalaturka.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/PAL_ARABESK.png",PAL ARABESK
+https://ssldyg.radyotvonline.com/live/palbesk.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/PAL_DOGA.png",PAL DOĞA
+https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/PAL_STATION.png",PAL STATION
+https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RADYOMADYO_45LIK.png",RADYO 45'LİK
+http://stream.radyo45lik.com:4545/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RADYOMADYO_KALP.png",KALP FM
+http://yayin.kalpfm.com:8080
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POP.png",POP RADYO
+http://panel.sekobes.workers.dev/cloud/POP_RADYO.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RADYOMADYO_POPTIME.png",POP TIME
+http://yayin.radyomadyo.com:8006/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RADYOMADYO_SLOWTIME.png",SLOW TIME
+http://yayin.radyomadyo.com:8004/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RADYOMADYO_SLOWTIME.png",SLOW TIME
+http://panel.sekobes.workers.dev/cloud/SLOW_TIME.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RADYOMADYO_X.png",X RADIO
+http://stream.xradio.com.tr:8770
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RADYOMADYO_ARABESK.png",RADYO ARABESK
+http://yayin.radyomadyo.com:8000/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RADYOMADYO_AHENK.png",RADYO AHENK
+http://yayin.radyomadyo.com:8014/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RADYOMADYO_MIX.png",RADIO MIX
+http://yayin.radyomadyo.com:8002/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/NR1.png",NR1 FM
+https://number1.radyotvonline.net/hls/play/number1_fm.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/NR1TURK.png",NR1 TÜRK
+https://number1.radyotvonline.net/hls/play/number1_turk_fm.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/NR1TURK_ELLERHAVAYA.png",NR1 TÜRK ELLER HAVAYA
+https://ssldyg2.radyotvonline.com/live/ellerhavaya.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/NR1TURK_SLOW.png",NR1 TÜRK SLOW
+https://ssldyg2.radyotvonline.com/live/turkceslow.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/NR1TURK_90LAR.png",NR1 TÜRK 90'LAR
+https://ssldyg2.radyotvonline.com/live/turkce90lar.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/NR1TURK_DAMAR.png",NR1 TÜRK DAMAR
+https://ssldyg2.radyotvonline.com/live/damar.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KISS.png",KISS FM
+http://kiss.radyotvonline.net/kissfm
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KISSTURK.png",KISS TÜRK
+http://kiss.radyotvonline.net/kissturk
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KISSTURK_SLOW.png",KISS TÜRK SLOW
+http://dijimedya.radyotvonline.net/turkslow
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KISSTURK_45LIK.png",KISS TÜRK 45'LİK
+http://dijimedya.radyotvonline.net/45lik
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KISSTURK_MUSIKI.png",KISS RADYO MUSİKİ
+http://dijimedya.radyotvonline.net/radyomusiki
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KISSTURK_GOLD.png",KISS GOLD TURK
+http://dijimedya.radyotvonline.net/goldturk
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KISSTURK_GENC.png",KISS GENÇ RADYO
+http://dijimedya.radyotvonline.net/gncradyo
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POWERTURK.png",POWER TÜRK
+http://live.powerapp.com.tr/powerturk/256/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POWERTURK_TAPTAZE.png",POWERTÜRK TAPTAZE
+http://live.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POWERTURK_SLOW.png",POWER TÜRK SLOW
+http://listen.powerapp.com.tr/powerturkslow/256/icecast.audio
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POWER_POP.png",POWER POP
+http://listen.powerapp.com.tr/powerpop/256/icecast.audio
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POWER.png",POWER FM
+http://live.powerapp.com.tr/powerfmadver/256/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POWER_LOVE.png",POWER LOVE
+http://live.powerapp.com.tr/powerlove/256/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POWER_PLUS.png",POWER PLUS+
+http://live.powerapp.com.tr/powerplus/256/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/FENOMEN.png",RADYO FENOMEN
+http://live.radyofenomen.com/fenomen/256/icecast.audio
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/FENOMEN_TURK.png",FENOMEN TÜRK
+http://live.radyofenomen.com/fenomenturk/256/icecast.audio
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/FENOMEN_TR_POP.png",FENOMEN TÜRK TR-POP
+http://rdfenlive.mediatriple.net/fenomen/turktrpop/icecast.audio
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/FENOMEN_TR_YENILER.png",FENOMEN TÜRK YENİLER
+http://rdfenlive.mediatriple.net/fenomen/turkyeniler/icecast.audio
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/FENOMEN_KARISIK.png",FENOMEN KARIŞIK
+http://live.radyofenomen.com/fenomenkarisik/256/icecast.audio
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BOOMBOX.png",RADYO BOOMBOX
+http://live.radyofenomen.com/radyoboombox/mpeg/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BOOMBOX_XTRA.png",BOOMBOX XTRA
+https://rdfenlive.mediatriple.net/fenomen/boombox_yabanci/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KAFA.png",KAFA RADYO
+https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/LAND_TURK.png",TÜRKLAND
+http://46.20.3.246/stream/99/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/LAND_DOKSANLAR.png",DOKSANLAR
+http://46.20.3.246/stream/86/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/LAND_SARITRAMVAY.png",SARI TRAMVAY
+http://46.20.3.246/stream/85/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/LAND_GARAJ.png",GARAJ
+http://46.20.3.246/stream/107/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/LAND_ARABESKLAND.png",ARABESKLAND
+http://46.20.3.246/stream/91/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HOME_POP.png",POP HOME
+http://37.247.98.8/stream/405/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HOME_SLOW.png",SLOW HOME
+http://37.247.98.8/stream/27/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HOME_VOKAL.png",RADYO VOKAL
+http://37.247.98.8/stream/35/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HOME_TURKCEPOP90LAR.png",TÜRKÇE POP 90'LAR
+http://37.247.98.8/stream/166/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HOME_ALTINSARKILAR.png",ALTIN ŞARKILAR
+http://37.247.98.8/stream/25/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HOME_MAZIDENBIRDEMET.png",MAZİDEN BİR DEMET
+http://37.247.98.8/stream/24/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HOME_MELANKOLIK.png",MELANKOLİK
+http://37.247.98.8/stream/20/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HOME_TURKULERLETURKIYE.png",TÜRKÜLERLE TÜRKİYE
+http://37.247.98.8/stream/22/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POP_TURKCE.png",RADYO POP TÜRKÇE
+http://yayin.radyopop.site/turkce
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POP_NOSTALJI.png",RADYO POP NOSTALJİ
+http://yayin.radyopop.site/nostalji
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POP_ARABESK.png",RADYO POP ARABESK
+http://yayin.radyopop.site/arabesk
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/2000.png",RADYO 2000
+http://edge.taksimbilisim.com/radyo2000/bant1/icecast.audio
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TRT.png",TRT FM
+http://rd-trtfm.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TRT_MEMLEKETIM.png",TRT MEMLEKETİM FM
+http://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ISTANBULUNSESI.png",İSTANBUL'UN SESİ
+http://yayin.radyomadyo.com:9180
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/FG.png",FUTURE GENERATION
+http://edge1.radyotvonline.net/shoutcast/play/fg
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/MARS.png",RADYO MARS
+http://yayin.radyomadyo.com:9400
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POLIS.png",TÜRKİYE POLİS RADYOSU
+http://185.70.97.8:8096/bysid/51211
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/GERCEK.png",GERÇEK RADYO
+http://yayin.radyoilac.com:9590/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/LOUNGE.png",LOUNGE FM
+http://edge1.radyotvonline.net/shoutcast/play/loungefm
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/EKSEN.png",RADYO EKSEN
+http://46.20.3.199:80/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DAMARTURK.png",DAMAR TÜRK FM
+http://live.radyositesihazir.com/7000/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TRIO.png",RADYO TRİO
+http://46.20.7.98/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARADENIZ.png",KARADENİZ FM
+http://wowza1.radyotvonline.com/unitedmedia/karadenizfm.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/STARARTI.png",STAR ARTI FM
+http://radyo.yayin.com.tr:5062/stream.mp3
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BIR.png",RADYO BİR
+https://canli.radyobir.com.tr:7002/stream/1
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/MEGA.png",RADYO MEGA
+https://radyo.yayin.com.tr:4052/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RADYOMADYO_SEYMEN.png",RADYO SEYMEN
+http://yayin.radyoseymen.com.tr:1070
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/VOYAGE.png",RADYO VOYAGE
+https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TAKSI.png",RADYO TAKSİ
+http://live.radyo.in/8006/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/90.png",RADYO 90
+http://live.radyo.in/9054/stream/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DEJAVU.png",RADYO DEJAVU
+https://radyodejavu.80.yayin.com.tr/stream/1/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KENT.png",KENT FM
+http://46.20.7.101/stream/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/MH.png",MÜZİK HABERCİSİ
+http://trstream.msccdn.com:80/stream/240/stream.mp3
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/MH_KASETCALAR.png",KASETÇALAR
+http://trstream.msccdn.com:80/stream/239/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ASKINSESI.png",AŞKIN SESİ
+http://live.radyotvonline.com:9025
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ASKINSESI_SLOW.png",AŞKIN SESİ SLOW
+http://panel.sekobes.workers.dev/cloud/ASKIN_SESI_SLOW.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/MOOD.png",RADIO MOOD
+http://radyo.yayin.com.tr:5862/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/MOOD_LOVE.png",MOOD LOVE
+https://radyo.yayin.com.tr:6050/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RENK.png",RENK RADYO
+http://renkradyo.ozelip.net:8278/Stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/MAJOR.png",RADYO MAJÖR
+http://stream2.rtvtakip.com/8054/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ANDROMEDA.png",ANDROMEDA TÜRK RADIO
+http://radyo1.radyo-dinle.tc/andromedaturk/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/PLAYDANCE.png",PLAY DANCE TÜRK RADIO
+http://radyo1.radyo-dinle.tc/playdanceturk/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POPLIST.png",POP LIST
+http://guard.sekobes.workers.dev/?url=http://stream-179.zeno.fm/z2n5b8kvxc9uv
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HIT.png",RADYO HİT TÜRKİYE
+http://play.radyohit.tr/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/POPULER.png",POPÜLER FM
+https://anadolu.liderhost.com.tr:10919/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HEMDEM.png",HEMDEM POP RADYO
+http://yayin.hemdemradyo.com
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BEYAZ.png",RADYO BEYAZ
+https://radyo.normyazilim.com/listen/radyo_beyaz/radio.mp3
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/STOP.png",RADYO STOP
+http://yayin.radyostop.com:9400/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SLAYT.png",RADYO SLAYT
+http://live.radyo.in/8050/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DADA.png",DADA RADYO
+https://radyo.yayin.com.tr:5088/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/NABIZ.png",RADYO NABIZ
+http://rserver60.okeylisans.com/8546/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/NOW.png",RADYO NOW
+https://radyo.yayin.com.tr:9898/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HEART.png",HEART FM
+https://live.heartfm.com.tr/listen/heart_fm/128.aac
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/RUNONAIR.png",RUN ON AIR
+http://stream.radio.co/s5865f80fd/listen#.mp3
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SPACE.png",RADYO SPACE
+http://anadolu.liderhost.com.tr:8888
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TATLISES.png",RADYO TATLISES
+https://sslyayin.radyoyayini.com:7009/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ST_ENDUSTRI.png",ST ENDÜSTRİ RADYO
+https://sslyayin.radyoyayini.com:7102/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DAMAR.png",DAMAR FM
+https://yayin.damarfm.com/dinle/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DAMAR_YT.png",RADYO DAMAR
+http://panel.sekobes.workers.dev/cloud/RADYO_DAMAR.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DRAM.png",RADYO DRAM
+http://youtube.radyohizmeti.com:1450/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HARBI.png",HARBİ RADYO
+https://radio.guventechnology.com/9304/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SLOW.png",SLOW RADYO
+https://anadolu.liderhost.com.tr:10973/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/U.png",KANAL UTKU
+http://kanalutku.com/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KARMATURKIYE.png",KARMA TÜRKİYE
+http://dijimedya2.radyotvonline.net/karmaturkiye_noads
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TURKIYEM.png",TÜRKİYEM FM
+http://server7.streamserver24.com/proxy/turkiyemfm?mp=/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/GENCLIK.png",GENÇLİK RADYOSU
+http://gsbradyo.ercdn.net/gsbradyo/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ZETZET.png",ZETZET RADYO
+https://443-1.autopo.st/143/320K/&type=mp3
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/2019.png",RADIO 2019
+http://31.210.157.103
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TI.png",RADYO Tİ
+http://178.32.4.127:8040
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HEY.png",HEY RADYO
+http://82.145.63.122:4065/mp3stream128
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HEY_ARABESK.png",HEY RADYO ARABESK
+https://centova1.dribbcast.com/proxy/heyradyoarabesk/mp3stream256
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HEY_WORLD.png",HEY RADYO WORLD
+http://82.145.63.122:4586/mp3stream256
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ONLINE.png",RADYO ONLINE TÜRK
+http://anadolu.liderhost.com.tr:6852
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/MOD.png",RADYO MOD
+http://radio.server14.kariha.net/8034/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/AHENK.png",RADYO AHENK
+http://live.radyositesihazir.com/8088/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SESINIZ.png",SESİNİZ FM
+http://kesintisizyayin.com:1656
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/MANDAL.png",MANDAL RADYO
+https://yayin5.radyohizmeti.com:10888
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HOSMIX.png",HOŞ MiX
+https://anadolu.liderhost.com.tr:10871
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SOFT.png",SOFT RADYO
+https://radyo.softradyo.com/1140/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HAYATMIX.png",HAYATMIX SLOW
+http://radyo.yayin.com.tr:4090/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BLACK.png",RADIO BLACK
+http://anadolu.liderhost.com.tr/9824/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BLACK_LOVE.png",RADYO BLACK LOVE
+http://anadolu.liderhost.com.tr/9828/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/EASTANBUL.png",EASTANBUL
+https://stream.eastanbul.com/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DINAMO.png",DİNAMO FM
+http://mp3.dinamo.fm
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/WANDERLUST.png",RADIO WANDERLUST
+http://radyo.yayin.com.tr:5898
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/XLARGE.png",RADIO XLARGE
+http://istek.ozelip.com:1930
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ZEN_NOSTALJI.png",ZEN NOSTALJİ
+https://anadolu.liderhost.com.tr:10879
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KIRIKPLAK.png",RADYO KIRIK PLAK
+http://live.sinirsizhost.com/8042/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/GRAMOPHONE.png",RADIO GRAMOPHONE
+http://guard.sekobes.workers.dev/?url=http://stream.radiogramophone.com/hls/radio_gramophone/aac_hifi.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/YANKI.png",YANKİ RADYO
+http://radyo1.radyo-dinle.tc/8264/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DONENCE.png",RADIO DÖNENCE
+http://51.159.52.7:9290
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/JAM.png",JAM FM TÜRK
+http://stream.jam.fm/turk/mp3-128
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BIG.png",bigFM bigSES
+http://stream.bigfm.de/turkey/mp3
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/KAFSES.png",RADYO KAFSES
+http://radyo1.radyo-dinle.tc/8072/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TRT_1.png",TRT RADYO 1
+http://rd-trtradyo1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TRT_3.png",TRT RADYO 3
+http://rd-trtradyo3.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TRT_HABER.png",TRT HABER RADYO
+http://trt.radyotvonline.net/trthaber
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TRT_NAGME.png",TRT NAĞME
+http://rd-trtnagme.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TRT_TURKU.png",TRT TÜRKÜ
+http://rd-trtturku.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/METEOROLOJININSESI.png",METEOROLOJİNİN SESİ RADYOSU
+http://radyomgm.canliyayinda.com/listen.pls
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TRAFIK.png",RADYO TRAFİK
+http://37.247.100.118/stream/157/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/AHABER.png",A HABER RADYO
+http://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/CNNTURK.png",CNN TÜRK RADYO
+http://moondigitalmaster2.radyotvonline.net/cnnturk/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/NTV.png",NTV RADYO
+http://46.20.3.209
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/HABERTURK.png",HABER TÜRK RADYO
+http://haberturkradyo.radyotvonline.net/haberturkradyo
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/24.png",24 RADYO
+https://31.210.157.104
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ULKE.png",ÜLKE RADYO
+http://ssl4.radyotvonline.com/radyohome/ulkeradyo.stream_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TVNET.png",tvnet RADYO
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/tv100.png",TV100 HABER
+https://ssldyg2.radyotvonline.com/live/tv100radyo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TGRT.png",TGRT FM
+http://icecasttgrt.ihlasdigitalassets.com/tgrtfm
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BLOOMBERGHT.png",BLOOMBERG HT RADYO
+http://bloomberghtradyo.radyotvonline.net/bloomberghtradyo
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/CNBC-E.png",CNBC-e RADYO
+http://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DIYANET.png",DİYANET RADYO
+http://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/mt.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DIYANET_KURAN.png",DİYANET KUR'AN RADYO
+http://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/mt.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/DIYANET_RISALET.png",DİYANET RİSALET RADYO
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/mt.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/TURKUVAZ_VAV.png",VAV RADYO
+http://trkvz-radyolar.ercdn.net/radyovav/chunklist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/LALEGUL.png",LALEGÜL FM
+http://icecast.netmedya.net/lalegulfm
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/OZEL.png",ÖZEL FM
+http://ozelfm.80.yayin.com.tr
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/AKRA.png",AKRA FM
+http://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/FEZA.png",RADYO FEZA
+http://yayin.radyofeza.com/8002/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ERKAM.png",ERKAM RADYO
+https://api-tv5.yayin.com.tr:8002
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/MARMARA.png",MARMARA FM
+https://marmara.80.yayin.com.tr
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/7_TASAVVUF.png",RADYO 7 TASAVVUF
+http://31.210.158.16/radyo7tasavvuf/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SEMERKAND.png",SEMERKAND RADYO
+http://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SEYR.png",SEYR FM
+http://sslyayin.netyayin.net/8024/stream
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SEYRDJTL.png",SEYR FM İLAHİ
+https://sslyayin.netyayin.net:10918
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SEYRDJTL.png",SEYR KUR'AN RADYO
+https://sslyayin.netyayin.net:10933
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SEYRDJTL.png",SEYR SOHBET
+https://sslyayin.netyayin.net:10914
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SEYRDJTL.png",SEYR ÇOCUK
+https://sslyayin.netyayin.net:10906
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/FITRAT.png",RADYO FITRAT
+http://46.20.7.102
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/BAYRAM.png",BAYRAM FM
+https://sslyayin.netyayin.net:10962
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/ASPOR.png",A SPOR
+http://trkvz-radyolar.ercdn.net/asporradyo/chunklist.m3u8
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/SPOR.png",RADYO SPOR
+http://37.247.100.118/stream/70/
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/LIG.png",LİG RADYO
+http://ligradyo.radyotvonline.net
+
+#EXTINF:-1 group-title="RADYO KANALLARI" tvg-logo="https://sekobes.pythonanywhere.com/files/Logos/GOL.png",RADYO GOL
+http://31.210.157.106
