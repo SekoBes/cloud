@@ -18,7 +18,10 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ==================== AYARLAR ====================
-if os.path.exists("/storage/emulated/0/") and platform.system() != 'Windows':
+if os.environ.get("GITHUB_ACTIONS") == "true":
+    # GitHub Actions ortamı: repo kökü
+    BASE_PATH = os.path.dirname(os.path.abspath(__file__))
+elif os.path.exists("/storage/emulated/0/") and platform.system() != 'Windows':
     BASE_PATH = "/storage/emulated/0/IPTV"
 else:
     BASE_PATH = r"C:\Users\KEMAL\Desktop\IPTV"
