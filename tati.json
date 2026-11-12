@@ -1,77 +1,81 @@
 {
-  "BEST_FM": { 
+  "best_fm": { 
     "artist": "Türkiye'nin En İyi Radyosu!",
     "title": "Radyonuz Açık Olsun!"
   },
-  "BABA_RADYO": {
+  "baba_radyo": {
     "artist": "Babanı Dinle!",
     "title": ""
   },
-  "RADYO_34": {
+  "radyo_34": {
     "artist": "Türkçe Popun Yenisi!",
     "title": ""
   },
-    "HIT_RADYO": {
+    "hit_radyo": {
     "artist": "Türkçe Popun En Hitleri Bu Radyoda!",
     "title": ""
   },
-  "RADYO_45LIK": {
+  "radyo_45lik": {
     "artist": "Türkiye'nin Nostalji Radyosu!",
     "title": ""
   },
-  "KALP_FM": {
+  "kalp_fm": {
     "artist": "Kalbini Dinle!",
     "title": ""
   },
-  "SLOW_TURK": {
+  "slow_turk": {
     "artist": "Aşkın Frekansı!",
     "title": ""
   },
-  "DREAM_TURK": {
+  "dream_turk": {
     "artist": "Hayalini Dinle!",
     "title": ""
   },
-  "CNN_TURK_RADYO": {
+  "cnn_turk_radyo": {
     "artist": "İlk Bilen Siz Olun!",
     "title": ""
   },
-  "HABER_TURK_RADYO": {
+  "haber_turk_radyo": {
     "artist": "HaberTürk'ün Güçlü Sesi!",
     "title": ""
   },
-  "RADYO_MARS": {
+  "radyo_mars": {
     "artist": "Burada Hayat Var!",
     "title": ""
   },
-  "RADYO_BIR": {
+  "radyo_bir": {
     "artist": "Aynı Frekanstayız!",
     "title": ""
   },
-  "RADYO_MEGA": {
+  "radyo_mega": {
     "artist": "Türkiye'nin En MEGA'sı!",
     "title": ""
   },
-  "POP_RADYO": {
+  "pop_radyo": {
     "artist": "Türkçe Pop Burada Dinlenir!",
     "title": ""
   },
-  "SLOW_TIME_2": {
+  "slow_time": {
     "artist": "Türkçe Slowun En İyisi!",
     "title": ""
   },
-  "ISTANBUL'UN_SESI": {
+  "slow_time_2": {
+    "artist": "Türkçe Slowun En İyisi!",
+    "title": ""
+  },
+  "istanbul_un_sesi": {
     "artist": "İstanbul'un En Güçlü Sesi!",
     "title": ""
   },
-  "TRT_FM": {
+  "trt_fm": {
     "artist": "Uzakları Yakın Eden Radyo!",
     "title": ""
   },
-  "RADYO_TRAFIK": {
+  "radyo_trafik": {
     "artist": "Yol Şarkıları!",
     "title": ""
   },
-  "TURKIYE_POLIS_RADYOSU": {
+  "turkiye_polis_radyosu": {
     "artist": "Halkın Sesi, Güvenin Simgesi!",
     "title": ""
   }
