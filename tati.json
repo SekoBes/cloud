@@ -1,4 +1,8 @@
 {
+  "best_fm": { 
+    "artist": "Türkiye'nin En İyi Radyosu!",
+    "title": "Radyonuz Açık Olsun!"
+  },
   "baba_radyo": {
     "artist": "Babanı Dinle!",
     "title": "BABA RADYO"
@@ -7,45 +11,37 @@
     "artist": "Türkçe Popun Yenisi!",
     "title": "RADYO 34"
   },
-  "radyo_45lik": {
-    "artist": "Türkiye'nin Nostalji Radyosu!",
-    "title": "RADYO 45'LİK"
-  },
-  "cnn_turk_radyo": {
-    "artist": "İlk Bilen Siz Olun!",
-    "title": "CNN TÜRK RADYO"
-  },
-  "dream_turk": {
-    "artist": "Hayalini Dinle!",
-    "title": "DREAM TÜRK"
-  },
-  "hit_radyo": {
+    "hit_radyo": {
     "artist": "Türkçe Popun En Hitleri Bu Radyoda!",
     "title": "HİT RADYO"
   },
-  "haber_turk_radyo": {
-    "artist": "HaberTürk'ün Güçlü Sesi!",
-    "title": "HABER TÜRK RADYO"
-  },
-  "istanbul_un_sesi": {
-    "artist": "İstanbul'un En Güçlü Sesi!",
-    "title": "İSTANBUL'UN SESİ"
+  "radyo_45lik": {
+    "artist": "Türkiye'nin Nostalji Radyosu!",
+    "title": "RADYO 45'LİK"
   },
   "kalp_fm": {
     "artist": "Kalbini Dinle!",
     "title": "KALP FM"
   },
+  "slow_turk": {
+    "artist": "Aşkın Frekansı!",
+    "title": "SLOW TÜRK"
+  },
+  "dream_turk": {
+    "artist": "Hayalini Dinle!",
+    "title": "DREAM TÜRK"
+  },
+  "cnn_turk_radyo": {
+    "artist": "İlk Bilen Siz Olun!",
+    "title": "CNN TÜRK RADYO"
+  },
+  "haber_turk_radyo": {
+    "artist": "HaberTürk'ün Güçlü Sesi!",
+    "title": "HABER TÜRK RADYO"
+  },
   "radyo_mars": {
     "artist": "Burada Hayat Var!",
     "title": "RADYO MARS"
-  },
-  "turkiye_polis_radyosu": {
-    "artist": "Halkın Sesi, Güvenin Simgesi!",
-    "title": "TÜRKİYE POLİS RADYOSU"
-  },
-  "pop_radyo": {
-    "artist": "Türkçe Pop Burada Dinlenir!",
-    "title": "POP RADYO"
   },
   "radyo_bir": {
     "artist": "Aynı Frekanstayız!",
@@ -55,6 +51,10 @@
     "artist": "Türkiye'nin En MEGA'sı!",
     "title": "RADYO MEGA"
   },
+  "pop_radyo": {
+    "artist": "Türkçe Pop Burada Dinlenir!",
+    "title": "POP RADYO"
+  },
   "slow_time": {
     "artist": "Türkçe Slowun En İyisi!",
     "title": "SLOW TIME"
@@ -63,16 +63,20 @@
     "artist": "Türkçe Slowun En İyisi!",
     "title": "SLOW TIME"
   },
-  "slow_turk": {
-    "artist": "Aşkın Frekansı!",
-    "title": "SLOWTURK"
-  },
-  "yol_arkadasim": {
-    "artist": "Yol Şarkıları!",
-    "title": "YOL ARKADAŞIM"
+  "istanbul_un_sesi": {
+    "artist": "İstanbul'un En Güçlü Sesi!",
+    "title": "İSTANBUL'UN SESİ"
   },
   "trt_fm": {
     "artist": "Uzakları Yakın Eden Radyo!",
     "title": "TRT FM"
+  },
+  "radyo_trafik": {
+    "artist": "Yol Şarkıları!",
+    "title": "RADYO TRAFİK"
+  },
+  "turkiye_polis_radyosu": {
+    "artist": "Halkın Sesi, Güvenin Simgesi!",
+    "title": "TÜRKİYE POLİS RADYOSU"
   }
 }
