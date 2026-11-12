@@ -1,82 +1,42 @@
 {
-  "best_fm": { 
-    "artist": "Türkiye'nin En İyi Radyosu!",
-    "title": "Radyonuz Açık Olsun!"
-  },
-  "baba_radyo": {
-    "artist": "Babanı Dinle!",
-    "title": ""
-  },
-  "radyo_34": {
-    "artist": "Türkçe Popun Yenisi!",
-    "title": ""
-  },
-    "hit_radyo": {
-    "artist": "Türkçe Popun En Hitleri Bu Radyoda!",
-    "title": ""
-  },
-  "radyo_45lik": {
-    "artist": "Türkiye'nin Nostalji Radyosu!",
-    "title": ""
-  },
-  "kalp_fm": {
-    "artist": "Kalbini Dinle!",
-    "title": ""
-  },
-  "slow_turk": {
-    "artist": "Aşkın Frekansı!",
-    "title": ""
-  },
-  "dream_turk": {
-    "artist": "Hayalini Dinle!",
-    "title": ""
-  },
-  "cnn_turk_radyo": {
-    "artist": "İlk Bilen Siz Olun!",
-    "title": ""
-  },
-  "haber_turk_radyo": {
-    "artist": "HaberTürk'ün Güçlü Sesi!",
-    "title": ""
-  },
-  "radyo_mars": {
-    "artist": "Burada Hayat Var!",
-    "title": ""
-  },
-  "radyo_bir": {
-    "artist": "Aynı Frekanstayız!",
-    "title": ""
-  },
-  "radyo_mega": {
-    "artist": "Türkiye'nin En MEGA'sı!",
-    "title": ""
-  },
-  "pop_radyo": {
-    "artist": "Türkçe Pop Burada Dinlenir!",
-    "title": ""
-  },
-  "slow_time": {
-    "artist": "Türkçe Slowun En İyisi!",
-    "title": ""
-  },
-  "slow_time_2": {
-    "artist": "Türkçe Slowun En İyisi!",
-    "title": ""
-  },
-  "istanbul_un_sesi": {
-    "artist": "İstanbul'un En Güçlü Sesi!",
-    "title": ""
-  },
-  "trt_fm": {
-    "artist": "Uzakları Yakın Eden Radyo!",
-    "title": ""
-  },
-  "radyo_trafik": {
-    "artist": "Yol Şarkıları!",
-    "title": ""
-  },
-  "turkiye_polis_radyosu": {
-    "artist": "Halkın Sesi, Güvenin Simgesi!",
-    "title": ""
-  }
+  "best_fm_artist": "Türkiye'nin En İyi Radyosu!",
+  "best_fm_title": "Radyonuz Açık Olsun!",
+  "baba_radyo_artist": "Babanı Dinle!",
+  "baba_radyo_title": "",
+  "radyo_34_artist": "Türkçe Popun Yenisi!",
+  "radyo_34_title": "",
+  "hit_radyo_artist": "Türkçe Popun En Hitleri Bu Radyoda!",
+  "hit_radyo_title": "",
+  "radyo_45lik_artist": "Türkiye'nin Nostalji Radyosu!",
+  "radyo_45lik_title": "",
+  "kalp_fm_artist": "Kalbini Dinle!",
+  "kalp_fm_title": "",
+  "slow_turk_artist": "Aşkın Frekansı!",
+  "slow_turk_title": "",
+  "dream_turk_artist": "Hayalini Dinle!",
+  "dream_turk_title": "",
+  "cnn_turk_radyo_artist": "İlk Bilen Siz Olun!",
+  "cnn_turk_radyo_title": "",
+  "haber_turk_radyo_artist": "HaberTürk'ün Güçlü Sesi!",
+  "haber_turk_radyo_title": "",
+  "radyo_mars_artist": "Burada Hayat Var!",
+  "radyo_mars_title": "",
+  "radyo_bir_artist": "Aynı Frekanstayız!",
+  "radyo_bir_title": "",
+  "radyo_mega_artist": "Türkiye'nin En MEGA'sı!",
+  "radyo_mega_title": "",
+  "pop_radyo_artist": "Türkçe Pop Burada Dinlenir!",
+  "pop_radyo_title": "",
+  "slow_time_artist": "Türkçe Slowun En İyisi!",
+  "slow_time_title": "",
+  "slow_time_2_artist": "Türkçe Slowun En İyisi!",
+  "slow_time_2_title": "",
+  "istanbul_un_sesi_artist": "İstanbul'un En Güçlü Sesi!",
+  "istanbul_un_sesi_title": "",
+  "trt_fm_artist": "Uzakları Yakın Eden Radyo!",
+  "trt_fm_title": "",
+  "radyo_trafik_artist": "Yol Şarkıları!",
+  "radyo_trafik_title": "",
+  "turkiye_polis_radyosu_artist": "Halkın Sesi, Güvenin Simgesi!",
+  "turkiye_polis_radyosu_title": ""
 }
