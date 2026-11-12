@@ -1,82 +1,78 @@
 {
-  "best_fm": { 
+  "BEST_FM": { 
     "artist": "Türkiye'nin En İyi Radyosu!",
     "title": "Radyonuz Açık Olsun!"
   },
-  "baba_radyo": {
+  "BABA_RADYO": {
     "artist": "Babanı Dinle!",
     "title": ""
   },
-  "radyo_34": {
+  "RADYO_34": {
     "artist": "Türkçe Popun Yenisi!",
     "title": ""
   },
-    "hit_radyo": {
+    "HIT_RADYO": {
     "artist": "Türkçe Popun En Hitleri Bu Radyoda!",
     "title": ""
   },
-  "radyo_45lik": {
+  "RADYO_45LIK": {
     "artist": "Türkiye'nin Nostalji Radyosu!",
     "title": ""
   },
-  "kalp_fm": {
+  "KALP_FM": {
     "artist": "Kalbini Dinle!",
     "title": ""
   },
-  "slow_turk": {
+  "SLOW_TURK": {
     "artist": "Aşkın Frekansı!",
-    "title": "SLOW TÜRK"
+    "title": ""
   },
-  "dream_turk": {
+  "DREAM_TURK": {
     "artist": "Hayalini Dinle!",
-    "title": "DREAM TÜRK"
+    "title": ""
   },
-  "cnn_turk_radyo": {
+  "CNN_TURK_RADYO": {
     "artist": "İlk Bilen Siz Olun!",
-    "title": "CNN TÜRK RADYO"
+    "title": ""
   },
-  "haber_turk_radyo": {
+  "HABER_TURK_RADYO": {
     "artist": "HaberTürk'ün Güçlü Sesi!",
-    "title": "HABER TÜRK RADYO"
+    "title": ""
   },
-  "radyo_mars": {
+  "RADYO_MARS": {
     "artist": "Burada Hayat Var!",
-    "title": "RADYO MARS"
+    "title": ""
   },
-  "radyo_bir": {
+  "RADYO_BIR": {
     "artist": "Aynı Frekanstayız!",
-    "title": "RADYO BİR"
+    "title": ""
   },
-  "radyo_mega": {
+  "RADYO_MEGA": {
     "artist": "Türkiye'nin En MEGA'sı!",
-    "title": "RADYO MEGA"
+    "title": ""
   },
-  "pop_radyo": {
+  "POP_RADYO": {
     "artist": "Türkçe Pop Burada Dinlenir!",
-    "title": "POP RADYO"
+    "title": ""
   },
-  "slow_time": {
+  "SLOW_TIME_2": {
     "artist": "Türkçe Slowun En İyisi!",
-    "title": "SLOW TIME"
+    "title": ""
   },
-  "slow_time_2": {
-    "artist": "Türkçe Slowun En İyisi!",
-    "title": "SLOW TIME"
-  },
-  "istanbul_un_sesi": {
+  "ISTANBUL'UN_SESI": {
     "artist": "İstanbul'un En Güçlü Sesi!",
-    "title": "İSTANBUL'UN SESİ"
+    "title": ""
   },
-  "trt_fm": {
+  "TRT_FM": {
     "artist": "Uzakları Yakın Eden Radyo!",
-    "title": "TRT FM"
+    "title": ""
   },
-  "radyo_trafik": {
+  "RADYO_TRAFIK": {
     "artist": "Yol Şarkıları!",
-    "title": "RADYO TRAFİK"
+    "title": ""
   },
-  "turkiye_polis_radyosu": {
+  "TURKIYE_POLIS_RADYOSU": {
     "artist": "Halkın Sesi, Güvenin Simgesi!",
-    "title": "TÜRKİYE POLİS RADYOSU"
+    "title": ""
   }
 }
