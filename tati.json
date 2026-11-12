@@ -1,0 +1,78 @@
+{
+  "baba_radyo": {
+    "artist": "Babanı Dinle!",
+    "title": "BABA RADYO"
+  },
+  "radyo_34": {
+    "artist": "Türkçe Popun Yenisi!",
+    "title": "RADYO 34"
+  },
+  "radyo_45lik": {
+    "artist": "Türkiye'nin Nostalji Radyosu!",
+    "title": "RADYO 45'LİK"
+  },
+  "cnn_turk_radyo": {
+    "artist": "İlk Bilen Siz Olun!",
+    "title": "CNN TÜRK RADYO"
+  },
+  "dream_turk": {
+    "artist": "Hayalini Dinle!",
+    "title": "DREAM TÜRK"
+  },
+  "hit_radyo": {
+    "artist": "Türkçe Popun En Hitleri Bu Radyoda!",
+    "title": "HİT RADYO"
+  },
+  "haber_turk_radyo": {
+    "artist": "HaberTürk'ün Güçlü Sesi!",
+    "title": "HABER TÜRK RADYO"
+  },
+  "istanbul_un_sesi": {
+    "artist": "İstanbul'un En Güçlü Sesi!",
+    "title": "İSTANBUL'UN SESİ"
+  },
+  "kalp_fm": {
+    "artist": "Kalbini Dinle!",
+    "title": "KALP FM"
+  },
+  "radyo_mars": {
+    "artist": "Burada Hayat Var!",
+    "title": "RADYO MARS"
+  },
+  "turkiye_polis_radyosu": {
+    "artist": "Halkın Sesi, Güvenin Simgesi!",
+    "title": "TÜRKİYE POLİS RADYOSU"
+  },
+  "pop_radyo": {
+    "artist": "Türkçe Pop Burada Dinlenir!",
+    "title": "POP RADYO"
+  },
+  "radyo_bir": {
+    "artist": "Aynı Frekanstayız!",
+    "title": "RADYO BİR"
+  },
+  "radyo_mega": {
+    "artist": "Türkiye'nin En MEGA'sı!",
+    "title": "RADYO MEGA"
+  },
+  "slow_time": {
+    "artist": "Türkçe Slowun En İyisi!",
+    "title": "SLOW TIME"
+  },
+  "slow_time_2": {
+    "artist": "Türkçe Slowun En İyisi!",
+    "title": "SLOW TIME"
+  },
+  "slow_turk": {
+    "artist": "Aşkın Frekansı!",
+    "title": "SLOWTURK"
+  },
+  "yol_arkadasim": {
+    "artist": "Yol Şarkıları!",
+    "title": "YOL ARKADAŞIM"
+  },
+  "trt_fm": {
+    "artist": "Uzakları Yakın Eden Radyo!",
+    "title": "TRT FM"
+  }
+}
