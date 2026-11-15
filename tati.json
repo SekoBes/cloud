@@ -11,6 +11,8 @@
   "radyo_45lik_title": "RADYO 45'LİK",
   "kalp_fm_artist": "Kalbini Dinle!",
   "kalp_fm_title": "KALP FM",
+  "radyo_7_artist": "Hayata Müzik Katın", 
+  "radyo_7_title": "RADYO 7", 
   "slow_turk_artist": "Aşkın Frekansı!",
   "slow_turk_title": "SLOW TÜRK",
   "dream_turk_artist": "Hayalini Dinle!",
@@ -47,8 +49,8 @@
   "trt_turku_title": "TRT TÜRKÜ",  
   "trt_haber_artist": "Haberin Radyo Frekansı!",
   "trt_haber_title": "TRT HABER",
-  "radyo_trafik_artist": "Yol Şarkıları!",
-  "radyo_trafik_title": "RADYO TRAFİK",
+  "radyo_trafik_2_artist": "Yol Şarkıları!",
+  "radyo_trafik_2_title": "RADYO TRAFİK",
   "turkiye_polis_radyosu_artist": "Halkın Sesi, Güvenin Simgesi!",
   "turkiye_polis_radyosu_title": "TÜRKİYE POLİS RADYOSU"
 }
