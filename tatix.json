@@ -17,12 +17,14 @@
   "radyo_mega_artist": "Türkiye'nin En MEGA'sı!",
   "radyo_7_artist": "Hayata Müzik Katın!",
   "pop_radyo_artist": "Türkçe Pop Burada Dinlenir!",
-  "slow_time_artist": "Türkçe Slowun En İyisi!",
   "slow_time_2_artist": "Türkçe Slowun En İyisi!",
+  "radyo_seymen_artist": "Türkiye'yi Oynatan Radyo!",
   "radyo_damar_artist": "Kalbinize En Yakın Damar!",
   "radyo_damar_title": "24 Saat Damar!",
   "radyo_2000_artist": "Türkiye'nin En Güzel Sesi!", 
   "istanbul_un_sesi_artist": "İstanbul'un En Güçlü Sesi!",
+  "gercek_radyo_artist": "İstanbul'un Gerçek Sesi!" 
+  "karadeniz_fm_artist": "Türkiye’nin İlk Karadeniz Radyosu!"  
   "trt_fm_artist": "Uzakları Yakın Eden Radyo!",
   "trt_1_artist": "Hayata Dair Her Şey!",
   "trt_3_artist": "Kaliteli Müziğin Kıtaları Aşan Sesi!",
@@ -31,4 +33,7 @@
   "trt_haber_artist": "Haberin Radyo Frekansı!",
   "radyo_trafik_2_artist": "Yol Şarkıları!",
   "turkiye_polis_radyosu_artist": "Halkın Sesi, Güvenin Simgesi!"
+  "future_generation_artist": "Music For Future Generation!",
+  "lounge_fm_artist": "Sound from Planet Earth!",
+  "hemdem_radyo_artist": "Yüreğiyle Dinyelenlerin Buluştuğu Radyo!",
 }

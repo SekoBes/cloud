@@ -41,6 +41,10 @@
   "radyo_2000_title": "RADYO 2000",  
   "istanbul_un_sesi_artist": "İstanbul'un En Güçlü Sesi!",
   "istanbul_un_sesi_title": "İSTANBUL'UN SESİ",
+  "gercek_radyo_artist": "İstanbul'un Gerçek Sesi!"
+  "gercek_radyo_title": "GERÇEK RADYO"
+  "karadeniz_fm_artist": "Türkiye’nin İlk Karadeniz Radyosu!"
+  "karadeniz_fm_title": "KARADENİZ FM"  
   "trt_fm_artist": "Uzakları Yakın Eden Radyo!",
   "trt_fm_title": "TRT FM",
   "trt_1_artist": "Hayata Dair Her Şey!",
@@ -56,5 +60,11 @@
   "radyo_trafik_2_artist": "Yol Şarkıları!",
   "radyo_trafik_2_title": "RADYO TRAFİK",
   "turkiye_polis_radyosu_artist": "Halkın Sesi, Güvenin Simgesi!",
-  "turkiye_polis_radyosu_title": "TÜRKİYE POLİS RADYOSU"
+  "turkiye_polis_radyosu_title": "TÜRKİYE POLİS RADYOSU",
+  "future_generation_artist": "Music For Future Generation!",
+  "future_generation_title": "FUTURE GENERATION" 
+  "lounge_fm_artist": "Sound from Planet Earth!"
+  "lounge_fm_title": "LOUNGE FM", 
+  "hemdem_radyo_artist": "Yüreğiyle Dinyelenlerin Buluştuğu Radyo!"
+  "hemdem_radyo_title": "HEMDEM RADYO",      
 }
