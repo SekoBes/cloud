@@ -41,10 +41,10 @@
   "radyo_2000_title": "RADYO 2000",  
   "istanbul_un_sesi_artist": "İstanbul'un En Güçlü Sesi!",
   "istanbul_un_sesi_title": "İSTANBUL'UN SESİ",
-  "gercek_radyo_artist": "İstanbul'un Gerçek Sesi!"
-  "gercek_radyo_title": "GERÇEK RADYO"
-  "karadeniz_fm_artist": "Türkiye’nin İlk Karadeniz Radyosu!"
-  "karadeniz_fm_title": "KARADENİZ FM"
+  "gercek_radyo_artist": "İstanbul'un Gerçek Sesi!",
+  "gercek_radyo_title": "GERÇEK RADYO",
+  "karadeniz_fm_artist": "Türkiye’nin İlk Karadeniz Radyosu!",
+  "karadeniz_fm_title": "KARADENİZ FM",
   "radyo_seymen_artist": "Türkiye'yi Oynatan Radyo!",
   "radyo_seymen_title": "RADYO SEYMEN",  
   "trt_fm_artist": "Uzakları Yakın Eden Radyo!",
@@ -64,9 +64,9 @@
   "turkiye_polis_radyosu_artist": "Halkın Sesi, Güvenin Simgesi!",
   "turkiye_polis_radyosu_title": "TÜRKİYE POLİS RADYOSU",
   "future_generation_artist": "Music For Future Generation!",
-  "future_generation_title": "FUTURE GENERATION" 
-  "lounge_fm_artist": "Sound from Planet Earth!"
+  "future_generation_title": "FUTURE GENERATION" ,
+  "lounge_fm_artist": "Sound from Planet Earth!",
   "lounge_fm_title": "LOUNGE FM", 
-  "hemdem_radyo_artist": "Yüreğiyle Dinyelenlerin Buluştuğu Radyo!"
+  "hemdem_radyo_artist": "Yüreğiyle Dinyelenlerin Buluştuğu Radyo!",
   "hemdem_radyo_title": "HEMDEM RADYO",      
 }
